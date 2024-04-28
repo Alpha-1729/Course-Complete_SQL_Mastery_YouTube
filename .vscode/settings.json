@@ -1,0 +1,23 @@
+{
+    "cSpell.words": [
+        "autocommit",
+        "codewithmosh",
+        "Dont",
+        "Hamedani",
+        "Inno",
+        "lastname",
+        "Maxlen",
+        "Myworks",
+        "RDBMS",
+        "SQUEL",
+        "Subqueries",
+        "Subquery",
+        "Vidly",
+        "Visio"
+    ],
+    "sqlfluff.excludeRules": [
+        "LT05",
+        "AL03",
+        "AM04"
+    ]
+}
